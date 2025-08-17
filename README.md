@@ -37,6 +37,6 @@ Hello! I am a Software Engineering student at University of Costa Rica passionat
 
 ###  🌱 Currently Learning
 - Full-Stack Development with React, Node.js, and .NET  
-- Non-relational Databases (** NoSQL, MongoDB, Redis, Neo4j**)  
+- Non-relational Databases (**NoSQL, MongoDB, Redis, Neo4j**)  
 - Best practices in testing with **xUnit**  
 
