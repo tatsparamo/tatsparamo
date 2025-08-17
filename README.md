@@ -40,10 +40,3 @@ Hello! I am a Software Engineering student at University of Costa Rica passionat
 - Non-relational Databases (** NoSQL, MongoDB, Redis, Neo4j**)  
 - Best practices in testing with **xUnit**  
 
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-8phmrl0pd-tatsparamos-projects.vercel.app/api?username=tatsparamo&show_icons=true&include_all_commits=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats-8phmrl0pd-tatsparamos-projects.vercel.app/api/top-langs?username=tatsparamo&layout=compact&langs_count=6&theme=dracula" height="150"/>
-</div>
